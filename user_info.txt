@@ -1,0 +1,5 @@
+pikachu,Abcdef
+charmander,XyzaBc
+squirtle,SquirtleSquad
+20Pidgey,PqrPqr
+fearow,Pidgey
