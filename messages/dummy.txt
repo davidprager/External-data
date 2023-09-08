@@ -1,0 +1,2 @@
+This file ensures that the messages folder is included in the initial Github project
+It can be deleted before your completed project is uploaded to Github
