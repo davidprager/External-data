@@ -1,5 +1,6 @@
-pikachu,Abcdef
-charmander,XyzaBc
-squirtle,SquirtleSquad
-20Pidgey,PqrPqr
-fearow,Pidgey
+Pikachu1,Abcdef
+Charmander3,XyzaBc
+Squirtle1,SquirtleSquad
+20Pidgey20,PqrPqr$$$
+Fearow100,Pidgey
+
