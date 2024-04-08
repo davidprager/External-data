@@ -10,9 +10,9 @@ import datetime
 # input:      a username (string)
 # processing: determines if the username supplied is valid.  for the purpose
 #             of this program a valid username is defined as follows:
-#             (1) must be 6 characters or longer
+#             (1) must be 5 characters or longer
 #             (2) must be alphanumeric (only letters or numbers)
-#             (3) the last character cannot be a number
+#             (3) the last character must be a number
 # output:     boolean (True if valid, False if invalid)
 
 
@@ -20,9 +20,9 @@ import datetime
 # input:      a password (string)
 # processing: determines if the password supplied is valid.  for the purpose
 #             of this program a valid password is defined as follows:
-#             (1) must be 5 characters or longer
-#             (2) must be alpha (only letters)
-#	      (3) at least one letter must be lower case and one upper case
+#             (1) must be 6 characters or longer
+#             (2) must not contain any numbers
+#	            (3) at least one letter must be lower case and one upper case
 # output:     boolean (True if valid, False if invalid)
 
 
